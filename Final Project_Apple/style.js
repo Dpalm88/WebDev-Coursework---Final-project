@@ -1,0 +1,3 @@
+function somefunction()
+   {alert("Iphone");
+} 
